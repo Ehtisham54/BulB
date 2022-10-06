@@ -1,0 +1,13 @@
+/* #bulb{
+    width: 350px;
+    height: 500px;
+} */
+
+body{
+    background-color: black;
+}
+
+#bulb{
+    align-items: center;
+    justify-content: center;
+}
